@@ -23,7 +23,8 @@ Usuário já possui cadastro no sistema
 Usuário deve ser autenticado e redirecionado para a área logada
 
 ## Resultado obtido
-Aguardando execução
+- Login com dados válidos realizado com sucesso
+- Login com email inválido apresentou erro corretamente
 
 ## Status
-Não executado
+Aprovado
